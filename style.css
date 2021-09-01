@@ -1,0 +1,50 @@
+.first {
+    height: 100px;
+    width: 100px;
+    border-radius: 25px;
+    display: inline-block;
+    margin-top: 150px;
+    margin-left: 650px;
+    background-color: red;
+    border: 5px solid black;
+}
+h1,h2{
+    text-align: center;
+}
+body{
+    background-color: darkblue;
+}
+.second {
+    height: 100px;
+    width: 100px;
+    border-radius: 25px;
+    background-color: blue;
+    display: inline-block;
+    border: 5px solid black;
+}
+.third {
+    height: 100px;
+    width: 100px;
+    border-radius: 25px;
+    background-color: green;
+    margin-left: 650px;
+    display: inline-block;
+    border: 5px solid black;
+}
+.fourth {
+    height: 100px;
+    width: 100px;
+    border-radius: 25px;
+    background-color: yellow;
+    display: inline-block;
+    border: 5px solid black;
+}
+.pressed {
+    box-shadow: 0 0 20px white;
+    background-color: grey;
+  }
+  .game-over {
+    background-color: red;
+    opacity: 0.8;
+    
+  }
